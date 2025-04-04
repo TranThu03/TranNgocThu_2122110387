@@ -5176,11 +5176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\TranNgocThu_2122110387.csproj",
+      "projectUniqueName": "D:\\ASP.NET\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\TranNgocThu_2122110387.csproj",
       "projectName": "TranNgocThu_2122110387",
-      "projectPath": "D:\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\TranNgocThu_2122110387.csproj",
+      "projectPath": "D:\\ASP.NET\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\TranNgocThu_2122110387.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\obj\\",
+      "outputPath": "D:\\ASP.NET\\TranNgocThu_2122110387\\TranNgocThu_2122110387\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
