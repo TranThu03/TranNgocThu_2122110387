@@ -45,9 +45,12 @@ using Microsoft.AspNetCore.Mvc;
 using TranNgocThu_2122110387.Model;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace TranNgocThu_2122110387.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
